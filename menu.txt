@@ -1,0 +1,5 @@
+1|Burger|150
+2|Pizza|40
+3|Pasta|200
+5|Sandwich|120
+4|Sandwich|50

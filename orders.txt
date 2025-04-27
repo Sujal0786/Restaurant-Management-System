@@ -1,0 +1,37 @@
+
+Burger x 2 = ₹300
+Pizza x 3 = ₹750
+Sandwich x  = ₹0
+Sandwich x 5 = ₹600
+Sandwich x 0 = ₹0
+---------------------
+Total Bill: ₹1650
+
+
+Burger x 2 = ₹300
+Pasta x 2 = ₹400
+---------------------
+Total Bill: ₹700
+
+
+Burger x 3 = ₹450
+Pizza x 2 = ₹500
+---------------------
+Total Bill: ₹950
+
+
+Burger x 2 = ₹300
+Pasta x 2 = ₹400
+---------------------
+Total Bill: ₹700
+
+
+Burger x 1 = ₹150
+---------------------
+Total Bill: ₹150
+
+
+Pizza x 1 = ₹40
+---------------------
+Total Bill: ₹40
+
